@@ -1,0 +1,33 @@
+
+
+    <%= form_tag({controller: "uploads", action: "create"}, method: "post",remote: true) do %>
+<fieldset>
+    <div class="field">
+
+    	<%= label_tag(:q, "Select Folder:") %>
+    <%= select_tag "folders", options_for_select(@folders,{:class => "field"}) %>
+
+</div>   
+
+<div class="field">
+    <%= label_tag(:q, "fie_name:") %>
+    <%= text_field_tag 'file_name'  %>
+  </div>
+
+<div class="field">
+	<%= label_tag(:q, "markdown_text:") %>
+
+    <%= text_area(:post, :body, cols: 90, rows: 25,calss:"field") %>
+
+    
+   </div>
+      <div class="actions">
+
+    <%= submit_tag("Create") %>
+</div>
+<% end %>
+
+
+</fieldset>
+<!-- <div><%=@folders %></div> -->
+<div id="create"></div>

@@ -1,0 +1,56 @@
+<p id="notice"><%= notice %></p>
+<p id="delete"><%= notice %></p>
+
+
+<p>
+  <strong>Dir:</strong>
+  <%= @upload.dir %>
+ 
+
+</p>
+<p>
+  
+  <strong>pwd:</strong>
+  <%= Rails.root %>
+
+</p>
+
+<p>
+  <strong>file:</strong>
+
+  <%= @upload.pfad %>
+
+  <strong>love:</strong>
+
+   
+
+</p>
+<strong>Fileinhalt:</strong></br>
+<textarea id="result" rows="25" cols="45"><%=@upload.inhalt %></textarea>
+<p>
+  <strong>Inhalt:</strong>
+  <%= @upload.inhalt %>
+</p>
+
+<%= link_to 'Edit', edit_upload_path(@upload) %> 
+<%= link_to 'Back', uploads_path %>
+<ul>
+
+<% @files.each do |far| %>
+
+
+<li>
+	<%= m=far.delete('.txt') %></br>
+	<%= link_to "html", zeig_path(m) %>
+	<%= link_to "pdf", zeig_path(m ,format: :pdf) %>
+	<%= link_to "test" ,zeig_path(m), remote: true  %>
+
+	
+	<%= link_to "Delete2" ,delete_path(m), remote: true  %>
+
+
+</li>
+<% end %>
+ 
+</ul>
+

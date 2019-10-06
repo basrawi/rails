@@ -1,0 +1,324 @@
+
+
+{fach,cb}Fachprüfungsordnung (Satzung) der Technischen Fakultät der ChristianAlbrechts-Universität\
+zu Kiel für Studierende der Informatik mit dem Abschluss\
+Bachelor of Science (B.Sc.) (Fachprüfungsordnung Informatik (1-Fach))
+Vom 31. Juli 2009 
+
+##default##
+
+- NBl. MWV. Schl.-H. 2009 S. 40\
+Tag der Bekanntmachung auf der Internetseite der CAU: 02. Oktober 2009
+
+
+##default##
+
+- Aufgrund des § 52 Abs. 1 Satz 1 des Hochschulgesetzes (HSG) in der Fassung der
+Bekanntmachung vom 28. Februar 2007 (GVOBl. Schl.-H. 2007, S. 184), zuletzt
+geändert durch Artikel 8 des Gesetzes zur Neuregelung des Beamtenrechts in
+Schleswig-Holstein vom 26. März 2009 (GVOBl. Schl.-H. S. 93), wird nach
+Beschlussfassung durch den Konvent der Technischen Fakultät vom 22. April 2009
+die folgende Satzung erlassen: 
+
+### §§{para,c} 
+### {breich,c} Geltungsbereich
+
+##k,n##
+ 
+- Diese Fachprüfungsordnung regelt in Verbindung mit der Prüfungsverfahrensordnung der Christian-
+Albrechts-Universität zu Kiel für Studierende der Bachelorund Master-Studiengänge(Prüfungsverfahrensordnung - PVO) das Studium des
+1-Fach-Bachelor-Studiengangs Informatik an der Christian-Albrechts-Universität zu
+Kiel.
+- Sie gilt für
+  1. alle Module des Instituts für Informatik, die Bestandteil des in dieser
+   Prüfungsordnung geregelten Studiengangs sind,
+  2. alle Module des Instituts für Informatik, die ausschließlich als exportierte
+     Module Bestandteil anderer Studiengänge sind.
+- Sonderregelungen für einzelne Module können zwischen den beteiligten
+  Prüfungssauschüssen vereinbart werden.         
+      
+### §§{two,c}
+### {zs,c}Ziel des Studiums, Zweck der Prüfung 
+
+
+##default##
+
+- Ziel des Studiengangs ist die Vermittlung fundierter Kenntnisse und Fähigkeiten der
+Informatik.
+Hierbei werden sowohl eine erste Befähigung zur Arbeit in Industrie,
+Verwaltung und im Dienstleistungsbereich vorbereitet, wie auch die Grundlagen für
+das wissenschaftliche Arbeiten im Fach Informatik gelegt.
+Durch die Bachelorprüfung werden die im Modulhandbuch angegebenen Lernziele
+überprüft und festgestellt, \ob die Grundlagen und Methoden des Fachs mit seinen
+Praxisbezügen beherrscht werden
+
+
+### §§{three,c}
+### {zs,c}Akadimischer Grad
+
+##default##
+
+- Aufgrund der bestandenen Bachelorprüfung verleiht die Technische Fakultät den
+Hochschulgrad “Bachelor of Science” (“B.Sc.”).
+
+
+### §§{four,c}
+### {zs,c}Studienaufbau
+
+
+##k,n##
+
+- Das Bachelor-Studium hat eine Regelstudienzeit von sechs Semestern. Das
+Studienvolumen umfasst etwa 120 Semesterwochenstunden und 180
+Leistungspunkte (LP).
+- Das Studium kann zu einem Winter- und zu einem Sommersemester begonnen
+werden. Der Studienbeginn wird zu einem Wintersemester empfohlen.
+- Der Bachelorstudiengang Informatik umfasst die folgenden Module: 
+
+
+### Grundmodule (Pflicht), 54 LP 
+
+##default##
+
+- _Programmierung_(8 LP, Vorlesung+Übung)\
+*Digitale Systeme* (7 LP, Vorlesung+Übung)\
+*Einführendes Programmierpraktikum* (4 LP, Praktische Übung)\
+*Mathematik für Informatiker A*(8 LP, Vorlesung+Übung)\
+*Algorithmen und Datenstrukturen* (8 LP, Vorlesung+Übung)\
+*Organisation und Architektur von Rechnern* (7 LP, Vorlesung+Übung)\
+*Programmierpraktikum* (4 LP, Praktische Übung)\
+*Mathematik für Informatiker B* (8 LP, Vorlesung+Übung)
+
+### Aufbaumodule(Pflicht), 47 LP 
+##default##
+
+- _Softwaretechnik_(8 LP, Vorlesung+Übung)\
+*Betriebssysteme* (7 LP, Vorlesung+Übung)\
+*Hardwarepraktikum* (4 LP, Praktische Übung)\
+*Mathematik für Informatiker c*(8 LP, Vorlesung+Übung)\
+*Fortgeschrittene Programmierung* (8 LP, Vorlesung+Übung)\
+*Logik in der Informatik* (7 LP, Vorlesung+Übung)\
+*Softwareprojekt* (5 LP, Praktische Übung)\
+
+### Vertiefungsmodule(Pflicht), 23 LP 
+
+
+##default##
+
+- _Informationssysteme_(8 LP, Vorlesung+Übung)\
+*Theoretische Grundlagen der Informatik* (8 LP, Vorlesung+Übung)\
+*Kommunikationssysteme * (7 LP,Vorlesung+Übung)\
+
+
+
+
+### Wahlpflichtmodule Informatik, 16 LP
+
+##default##
+
+- Als Wahlpflichtmodule Informatik können alle im Modulhandbuch Informatik als\
+Bachelor-Wahlpflichtmodule gekennzeichneten Module gewählt werden.\
+Wahlpflichtmodule Überfachliche Schlüsselkompetenzen, 4 LP, unbenotet\
+Das Modulhandbuch Informatik führt mögliche Module aus dem jeweils aktuellen\
+Angebot der Universität auf. Weitere Module können auf Antrag gewählt werden.\
+
+
+### Seminar zur Informatik, 4 Lp
+
+
+##default##
+
+- Als Seminar zur Informatik können alle im Modulhandbuch Informatik als BachelorSeminare\ gekennzeichneten Module gewählt werden.
+
+
+### Abschlussmodul mit Bachelorarbeit, 15 LP
+
+##default##
+
+- Die näheren Bestimmungen zum Abschlussmodul ergeben sich aus §{acht}. 
+
+### Anwendungsgebiet, 17 LP
+
+##default##
+
+- Studierende wählen aus den Fächern der Christian-Albrechts-Universität zu Kiel ein
+Anwendungsgebiet, in welchem sie Module im Umfang von 17 LP erwerben müssen.
+Die wählbaren Anwendungsgebiete mit den zugehörigen Modulen werden im
+Modulhandbuch aufgeführt. Weitere Anwendungsgebiete können in Absprache
+mit dem Prüfungsausschuss des gewählten Fachs und dem Prüfungsausschuss
+Informatik bestimmt werden. 
+
+
+
+### §§{five,c}
+### {ffi,c}Prüfungsausschuss 
+
+##default##
+
+- Für die Organisation der durch diese Ordnung geregelten Modulprüfungen ist der
+Prüfungsausschuss Informatik gemäß PVO zuständig. Seine Geschäfte führt das
+Prüfungsamt Informatik.
+
+### §§{six,c}
+### {ssix,c}Modulprüfungen und Modulnoten
+
+##k,n##
+
+- {a1}Die Art der Modulprüfung kann gemäß PVO mündlich, schriftlich, eine
+Gruppenprüfung oder eine Hausaufgabe sein.
+- {ak}Die Prüfungen in den Modulen Einführendes Programmierpraktikum,
+Programmierpraktikum, Hardwarepraktikum und Softwareprojekt sind mündlich
+abzunehmen. Hierbei sind Gruppenprüfungen möglich.
+- {am}Alle anderen Module, außer dem Seminar zur Informatik und dem
+Abschlussmodul, werden in der Regel durch eine schriftliche Prüfung (Klausur)
+oder eine mündliche Prüfung geprüft. Die Prüfungsform wird zu Beginn der
+Durchführung eines Moduls durch das Prüfungsamt bekannt gegeben.
+- {ai}Modulprüfungen werden gemäß PVO angeboten. Die Termine werden vom
+Prüfungsausschuss nach Rücksprache mit den Dozentinnen oder Dozenten
+festgelegt und zu Beginn der Durchführung eines Moduls durch das Prüfungsamt
+bekannt gegeben.
+- {ao}In Seminaren sollen die Studierenden zeigen, dass sie sich in ein vertiefendes
+Thema der Informatik selbstständig einarbeiten können, die Inhalte ausarbeiten,
+in einer Seminarausarbeitung strukturiert wiedergeben und im Rahmen eines
+Vortrags präsentieren können. Die Benotung des Seminars soll sowohl die
+Ausarbeitung als auch die Präsentation berücksichtigen.
+- {ab}Zu einer Prüfung zugelassen werden kann nur, wer zu dem zu prüfenden Modul
+gemäß §{fof} zugelassen ist. Weitere Zulassungsvoraussetzungen zur aktiven
+Teilnahme an Praktika und Übungen können im Modulhandbuch festgelegt
+werden und bei der Zulassung zur Modulprüfung überprüft werden.
+- {ac}Bei der Bewertung einer Modulprüfung können positive Studienleistungen, welche
+während der Durchführung des Moduls erbracht wurden, berücksichtigt werden.
+Die genauen Regelungen werden zu Beginn der Durchführung eines Moduls
+durch das Prüfungsamt bekannt gegeben.
+- {ad} Jede nicht bestandene Modulprüfung, außer bei Abschlussmodulen, kann sowohl
+bei derselben als auch bei späteren Durchführungen des Moduls wiederholt
+werden. Bei Seminaren besteht keine Wiederholungsmöglichkeit bei derselben
+Durchführung des Moduls. 
+
+
+
+
+### §§{fof,c}
+### {sev1,c}Voraussetzungen für die Zulassung zu Modulen
+
+
+##default##
+
+- Voraussetzungen für die Zulassung zu Modulen
+Zusätzlich gelten im Bachelorstudiengang Informatik folgende
+Teilnahmevoraussetzungen:
+
+##bullet,n##
+
+1. Die Teilnahme an Aufbaumodulen ist nur möglich, wenn\
+   - das Modul Programmierung oder das Modul Algorithmen und\
+    Datenstrukturen und
+   - das Modul Digitale Systeme oder das Modul Organisation und\
+    Architektur von Rechnern und
+   - das Modul Mathematik für Informatiker A oder das Modul Mathematik\
+    für Informatiker B erfolgreich absolviert wurden.
+2. Die Teilnahme an Vertiefungsmodulen, Wahlpflichtmodulen Informatik\
+und dem Modul Seminar zur Informatik ist nur möglich, wenn alle\
+Grundmodule und mindestens drei Aufbaumodule erfolgreich absolviert\
+wurden. Zu einem Abschlussmodul wird nur zugelassen, wer mindestens 130\
+Leistungspunkte gemäß §{five} in Grund-, Aufbau- und Wahlpflichtmodulen\
+nachweist.
+3. Ausnahmen können auf begründeten Antrag durch den Prüfungsausschuss\
+Informatik genehmigt werden. 
+
+
+
+### §§{acht,c}
+### {achtt,c}Abschlussmodul, Bachelorarbeit und Abschlussvortrag 
+
+##k##
+
+- Der Antrag auf Zulassung zum Abschlussmodul ist schriftlich und mit Unterschrift
+der Dozentin oder des Dozenten beim Prüfungsamt Informatik zu stellen.
+- Abschlussmodule bauen thematisch auf bestimmten Wahlpflicht- und Aufbau- und
+Vertiefungsmodulen auf, welche der oder die Studierende erfolgreich absolviert
+hat.
+- Ein Abschlussmodul umfasst die Bearbeitung eines wissenschaftlichen Problems
+der Informatik, die Vorstellung der erzielten Ergebnisse in einem Vortrag und die
+Anfertigung einer Bachelorarbeit. Hierbei können umfangreiche
+Problemstellungen von einer Gruppe bearbeitet werden, wobei von der Dozentin
+oder dem Dozenten auf eine nachvollziehbare und ausgewogene Aufteilung des
+Problems in Teilprobleme zu achten ist. Der Anteil der individuellen Arbeit soll
+einen Umfang von mindestens 6 Leistungspunkten haben.
+- Der Abschlussvortrag ist institutsöffentlich und sollte eine Länge von 30 Minuten
+haben. An ihn schließt sich eine kurze Aussprache an.
+- Die Durchführung eines Abschlussmoduls erfolgt studienbegleitend vom Beginn
+der Vorlesungszeit bis zum Ende des jeweiligen Semesters. Die Abgabefrist für
+die Bachelor-Arbeit eines Abschlussmoduls legt der Prüfungsausschuss nach
+Rücksprache mit der Dozentin oder dem Dozenten fest; sie darf nicht früher als
+zwei Wochen vor Semesterende liegen.
+- Die Benotung des Abschlussmoduls berücksichtigt die Problembearbeitung, die
+Bachelorarbeit und den Abschlussvortrag einschließlich der sich anschließenden
+Aussprache. Die Benotung hat spätestens 4 Wochen nach Abgabe der
+Bachelorarbeit zu erfolgen.
+- Studierende können das Thema, das in einem Abschlussmodul bearbeitet werden
+soll, einmalig innerhalb der ersten sechs Wochen des Abschlussmoduls
+zurückgeben. 
+- Wurde ein Abschlussmodul mit der Note 5,0 bewertet, kann das Abschlussmodul
+nur einmal wiederholt werden. Die Wiederholung hat spätestens im auf den
+Fehlversuch folgenden Studienjahr zu erfolgen.
+- Wird die Wiederholung des Abschlussmoduls mit der Note 5,0 bewertet oder
+erfolgt die Wiederholung des Abschlussmoduls nicht fristgerecht, hat der oder die
+Studierende die Bachelorprüfung Informatik endgültig nicht bestanden. Die
+Regelung der PVO über eine weitere Wiederholungsprüfung im Härtefall bleibt
+unberührt. 
+
+
+### §§{nine,c}
+### {n,c} Bildung der Gesamtnote
+
+##k##
+
+- Die Gesamtnote berechnet sich aus dem nach Leistungspunkten gewichteten
+arithmetischen Mittel aller Modulnoten einschließlich des Anwendungsgebietes.
+Die Noten der Grundmodule werden nur mit der Hälfte der ihnen zugeordneten
+Leistungspunkte eingerechnet.
+- Wird das Bachelorstudium innerhalb der Regelstudienzeit von 6 Semestern
+abgeschlossen, werden die schlechtesten Modulprüfungsnoten im Umfang von
+18 Leistungspunkten nicht zur Bildung der Gesamtnote herangezogen. 
+
+
+### §§{ten,c}
+### {tn,c} Inkrafttreten, Außerkrafttreten, Übergangsbestimmungen
+
+##k##
+
+
+- Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
+Gleichzeitig tritt die Prüfungsordnung (Satzung) der Technischen Fakultät der
+Christian-Albrechts-Universität zu Kiel für Studierende des Faches Informatik mit
+dem Abschluss Bachelor vom 29. Mai 2002 (NBl. MBWFK Schl.-H. S. 358),
+geändert durch Satzung vom 12. April 2005 (NBl. MWV Schl.-H. S. 371) außer
+Kraft.
+- Diese Prüfungsordnung gilt erstmals für Studierende, die ihr Studium im
+Wintersemester 2009/2010 aufnehmen.
+- Studierende höherer Fachsemester können auf Antrag ihr Studium nach der
+neuen Prüfungsordnung fortsetzen. Prüfungen, die bereits nach der alten
+Prüfungsordnung abgelegt worden sind, behalten ihre Gültigkeit.
+Prüfungsverfahren, die nach der alten Prüfungsordnung begonnen wurden,
+werden nach dieser abgeschlossen.
+- Studierende höherer Fachsemester können Bachelorprüfungen noch bis zum 30. September 2013 nach der Prüfungsordnung vom 29. Mai 2002 ablegen.Danach gilt auch für diese Studierenden diese Prüfungsordnung. 
+
+##default##
+
+- Die Genehmigung nach § 52 Abs. 1 Satz 1 des Hochschulgesetzes wurde durch das
+Präsidium der Christian-Albrechts-Universität zu Kiel mit Schreiben vom 23. Juli 2009
+erteilt. 
+
+
+##default##
+
+- Kiel, den 31. Juli 2009 §{acht}{am}.{ao} {ao}
+
+##default##
+
+- Prof. Dr. Franz Faupel\
+Dekan der Technischen Fakultät\
+der Christian-Albrechts-Universität zu Kiel 
+
+

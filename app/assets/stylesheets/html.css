@@ -1,0 +1,283 @@
+
+h1,h2,h3,h4,h5,h6 {margin:30px 13px;
+
+margin-bottom: -4px;}
+
+.first_element { 
+padding-top:15px;
+position:relative;
+ margin:24px 50px;
+ 
+font: 14px/1.2 Arial, sans-serif;
+  width: 100%; 
+ 
+  
+ 
+} 
+.second_element { 
+position:relative;
+ margin:12px 0px;
+ 
+font: 14px/1.2 Arial, sans-serif;
+  width: 100%; 
+ 
+  
+ 
+} 
+
+
+a:link {
+  color: black;
+} 
+
+.m{
+
+color: blue;
+text-align:center;}
+
+
+  
+
+
+.c{
+
+
+  position:relative;
+text-align:center;
+margin-bottom: -12px;
+}
+
+.cb{
+top-padding:-22px;
+font: 14px/0.6 Arial, sans-serif;
+  position:relative;
+text-align:center;
+font-weight: 900;
+margin-bottom: 18px;
+white-space: pre;}
+
+
+.lb{
+  top-margin:-60px;
+
+font: 14px/0.6 Arial, sans-serif;
+  position:relative;
+text-align:left;
+padding-top:12px;
+font-weight: 900;
+margin:20px 13px;
+margin-bottom: -200px;
+white-space: pre;}
+
+
+.lm{
+position:relative;
+margin-bottom: -10px;
+
+font: 14px/0.5 Arial, sans-serif;
+margin:30px 13px;
+text-align:left;
+margin-bottom: 0px;}
+
+
+.il{
+
+  text-align: justify;
+text-justify: inter-word;
+width: 90%;
+}
+
+
+
+
+.l{
+
+
+
+
+
+
+font: 14px/0.5 Arial, sans-serif;
+
+
+width:60%;
+margin-bottom: -120px;
+margin-top: 18px;
+}
+
+
+
+.le{
+margin-top:-40px;
+position:relative;
+text-align: justify;
+text-justify: inter-word;
+
+
+width:90%;
+
+font: 14px/0.5 Arial, sans-serif;
+margin:30px 13px;
+
+margin-bottom: -180px;
+
+}
+
+
+
+
+
+p.center{
+position:relative;
+  
+width: 300px; 
+   left: 40px;
+   top:3px;
+  
+  border:  3px #ff7347; 
+  font-size: 13px; 
+font-family: "Times New Roman";
+text-align: left; 
+ 
+}
+
+
+pre{
+position:relative;
+
+ font: 12px/1.2; 
+
+ 
+font-family: "Times New Roman";
+
+
+}
+
+
+
+li {
+  top-padding:50px;
+  margin-bottom: 0px;
+  text-align: justify;
+text-justify: inter-word;
+
+
+width:90%;
+}
+
+ul.n {
+
+    counter-reset: inner;
+     
+}
+ul.n >li:before{
+    counter-increment: inner;
+    content:counters(inner,'.') ". ";
+    padding-right:5px;
+}
+
+
+
+ul.strich { list-style-type: none;}
+ul.strich li:before { content: "- ";}
+ul.default { list-style-type: none;
+margin-left: -25px;}
+ul.default li:before { content: ""; }
+
+ul.bullet {
+ list-style-type: none;
+  margin-left: -15px;}
+
+ul.bullet li:before {
+    content:"• ";
+}
+
+
+ul.k {
+ margin-left: -25px;
+  counter-reset: section; 
+
+list-style-position: outside;                          
+                                          
+  list-style-type: none;
+  
+}
+ul.k il{white-space: pre-wrap;}
+ul.k >  li::before {
+
+  counter-increment: section; 
+                                            
+  content: "(" counters(section,".") ")   ";    
+}
+ul.a {
+  list-style-type: square;
+}
+
+ol.b {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+p{
+
+   margin:17px 17px;
+  
+  white-space: pre-wrap;
+  font: 14px/0.6 Arial, sans-serif;
+}
+   ol,ul{margin-bottom: -2px;}
+
+
+ table {
+  align:center;
+  width: 120%;
+  margin-left:50px;
+  height: 210px;
+  text-align: center;
+  border-collapse: collapse;
+}
+table td, table th {
+  border: 2px solid #FFFFFF;
+  padding: 8px 10px;
+}
+table tbody td {
+  font-size: 13px;
+}
+table tr:nth-child(even) {
+  background: #EBEBEB;
+}
+table thead {
+    border-bottom: 3px solid yellow;
+}
+table thead th {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+  border-left: 2px solid #333333;
+}
+table thead th:first-child {
+  border-left: none;
+}
+
+table tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #333333;
+  border-top: 4px solid #333333;
+}
+table tfoot td {
+  font-size: 14px;
+
+}
+
+.back-to-top {
+ background:red;
+ position: fixed;
+ bottom:20px;
+ right:10px;
+ padding:1em;
+ text-decoration: none;
+}

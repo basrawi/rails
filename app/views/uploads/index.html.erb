@@ -1,0 +1,41 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Files</h1>
+
+<div id="ul">
+
+<ol>
+
+<% @files.each do |far| %>
+ 
+
+<li id= <%= m= far.delete('.txt')%> >
+
+  <%= m%></br>
+  <%= link_to "html", zeig_path(m) %>
+  <%= link_to "pdf", zeig_path(m ,format: :pdf) %>
+  <%= link_to "edit" ,editfile_path(m) %>
+ 
+  
+  <%= link_to "Delete" ,delete_path(m) ,data: { confirm:
+'Are you sure?' , remote: true }  %>
+
+
+</li>
+<% end %>
+ 
+</ol>
+</div>
+
+
+
+
+
+<%= link_to 'New', new_upload_path ,remote: true %>
+
+
+
+
+
+ <div id="New_file"></div>
+ <div id="top"></div>

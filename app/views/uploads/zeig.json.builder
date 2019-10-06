@@ -1,0 +1,1 @@
+json.content format_content(@data.content)
